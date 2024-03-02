@@ -1,5 +1,3 @@
-# basic_1
+# table 태그만 있으면 표를 작성 할 수 있다.
 
-vscode 작성 방법 및 html과 css의 활용법 공부하기.
-
--다음시간은 도형 만들기를 해보자.
+caption, tr, td, thead, tfoot, tbody
